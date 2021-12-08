@@ -1,0 +1,29 @@
+{
+    "name": "Toobcoin",
+    "symbol": "TOOB",
+    "decimals": 6,
+    "website": "https://www.toobemi.com/",
+    "description": "TOOB is the currency issued by TOOBEMI.",
+    "explorer": "https://tronscan.io/#/token20/TV9HPmBWAC927VgYWfDWPgfUmj6nQYjjeU",
+    "type": "TRC20",
+    "status": "active",
+    "id": "TV9HPmBWAC927VgYWfDWPgfUmj6nQYjjeU",
+    "links": [
+        {
+            "name": "github",
+            "url": "https://github.com/toobemi"
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/toobemiofficial"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/toobemiofficial"
+        },
+        {
+            "name": "whitepaper",
+            "url": "https://www.toobemi.com/uploads/white-paper/white-paper.pdf"
+        }
+    ]
+}
